@@ -49,7 +49,7 @@ pycparser==2.19
 pygame==1.9.4
 pylint==1.8.4
 PyMySQL==0.9.3
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pystache==0.5.4
 python-dateutil==2.7.3
 python-dotenv==0.10.1
